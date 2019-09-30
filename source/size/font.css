@@ -1,0 +1,42 @@
+.xlg-size-rem{
+  font-size: 2rem;
+}
+.lg-size-rem{
+  font-size: 1.8rem;
+}
+.md-size-rem{
+  font-size: 1.6rem;
+}
+.sm-size-rem{
+  font-size: 1.4rem;
+}
+.xs-size-rem{
+  font-size: 1.2rem;
+}
+.xxs-size-rem{
+  font-size: 1rem;
+}
+.xlg-size{
+  font-size: 20px;
+}
+.lg-size{
+  font-size: 18px;
+}
+.md-size{
+  font-size: 16px;
+}
+.sm-size{
+  font-size: 14px;
+}
+.xs-size{
+  font-size: 12px;
+}
+.xxs-size{
+  font-size: 10px;
+}
+.font-weight-600{
+  font-weight: 600;
+}
+.font-weight-300{
+  font-weight: 300;
+}

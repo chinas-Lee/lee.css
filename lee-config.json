@@ -1,0 +1,14 @@
+{
+  "layout": {
+    "flex": true,
+    "float": true,
+    "margin": true,
+    "padding": true
+  },
+  "color": {
+    "front": true
+  },
+  "size": {
+    "font": true
+  }
+}

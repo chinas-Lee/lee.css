@@ -1,0 +1,5 @@
+{
+  "name": "lee.css",
+  "main": "./lee.css",
+  "ignore": [".*", "*.yml", "Gemfile", "Gemfile.lock", "*.md"]
+}
