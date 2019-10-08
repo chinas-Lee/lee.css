@@ -95,7 +95,7 @@ function activateAnimations() {
     }
   }
   // prepend base CSS
-  target.push('source/_base.css');
+  target.push('source/base.css');
 
   if (!count) {
     gutil.log('No animations activated.');

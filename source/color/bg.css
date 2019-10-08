@@ -1,0 +1,48 @@
+.success-bg{
+  background-color: #67C23A;
+}
+.warning-bg{
+  background-color: #E6A23C;
+}
+.danger-bg{
+  background-color: #F56C6C;
+}
+.blue-bg{
+  background-color: #2d8cf0;
+}
+.light-blue-bg{
+  background-color: #5cadff;
+}
+.dark-blue-bg{
+  background-color: #2b85e4;
+}
+.icon-bg{
+  background-color: #808695;
+}
+.black-bg{
+  background-color: #000000;
+}
+.title-bg{
+  background-color: #333333;
+}
+.text-bg{
+  background-color: #666666;
+}
+.light-bg{
+  background-color: #999999;
+}
+.placeholder-bg{
+  background-color: #9B9B9B;
+}
+.light-white-bg{
+  background-color: #EEEEEE;
+}
+.white-bg{
+  background-color: #FFFFFF;
+}
+.f6-bg{
+  background-color: #F6F6F6;
+}
+.f8-bg{
+  background-color: #f8f8f9;
+}
